@@ -18,3 +18,5 @@ alias hex='open -a "Hex Fiend"'
 if [ -s /usr/bin/firefox ] ; then
   unalias firefox
 fi
+
+alias sourcetree="open -a sourcetree"
